@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" >
+	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
+	<link href="http://localhost:8080/atom.xml" rel="self" type="application/atom+xml" />
+	<link href="http://localhost:8080/" rel="alternate" type="text/html" />
+	<updated>2023-11-21T12:41:08-06:00</updated>
+	<id>http://localhost:8080/atom.xml</id>
+	<title>Burbsec | Chicagoland's Information Security Meetup Network</title>
+	<subtitle>Chicagoland's Information Security Meetup Network</subtitle>
+	<author>
+		<name>BurbSec</name>
+					
+	</author>
+	<rights>(c) 2023, BurbSec</rights>
+	<icon>http://localhost:8080/assets/images/us-interstate.png</icon>
+	<logo>http://localhost:8080/assets/images/network.gif</logo></feed>

@@ -1,0 +1,24 @@
+{
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "markdown",
+    "yaml",
+    "scss",
+    "html"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_pages\/north.md",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_pages\/south.md",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_pages\/northwest.md",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_pages\/galway.md",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_config.yml",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_pages\/current_skin.md",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_pages\/tags.md",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/assets\/css\/custom.scss",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_pages\/prime.md",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_pages\/east.md",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_layouts\/event.html",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/index.md",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_pages\/cigarsec.md",
+    "\/Users\/steve\/Dropbox\/Repositories\/Websites\/burbsec-website\/_pages\/sponsors.md"
+  ]
+}

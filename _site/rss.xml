@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Burbsec | Chicagoland&apos;s Information Security Meetup Network</title>
+		<generator>(c) Chulapa Jekyll Theme RSS generator</generator>
+		<link>http://localhost:8080/</link>
+		<description>Chicagoland&apos;s Information Security Meetup Network</description>
+		<language>en-US</language>
+		<copyright>(c) 2023, BurbSec</copyright>	
+		<pubDate>Tue, 21 Nov 2023 12:41:08 -0600</pubDate>
+		<lastBuildDate>Tue, 21 Nov 2023 12:41:08 -0600</lastBuildDate>
+		<category>blog</category>
+		<ttl>60</ttl>
+		<atom:link href="http://localhost:8080/rss.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>Burbsec | Chicagoland&apos;s Information Security Meetup Network</title>
+			<url>http://localhost:8080/assets/images/network.gif</url>
+			<link>http://localhost:8080/</link>
+			<description>Chicagoland&apos;s Information Security Meetup Network</description>
+		</image></channel>
+</rss>
