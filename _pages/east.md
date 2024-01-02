@@ -9,12 +9,6 @@ gmaps_link: https://maps.app.goo.gl/r8nxdKddizJqfU4u9
 location: Navigator Taproom
 event_image: /assets/images/east-shield.png
 twitter_handle: BurbSecEast
-
-# !!! The following must be done for every meeting !!!
-# Update me with the new linked-in meeting id
-next_event_id: 295976242
-# Update me with the next event date
-next_date: November 30, 2023 @ 6pm
 ---
 
 Burbsec East is an informal meetup of Information Security enthusiasts,

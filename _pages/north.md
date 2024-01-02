@@ -9,12 +9,6 @@ gmaps_link: https://maps.app.goo.gl/v3DhVqEC3QHF8RE49
 location: D'Agostino's Pizzeria at The Glen
 event_image: /assets/images/north-shield.png
 twitter_handle: BurbSecNorth
-
-# !!! The following must be done for every meeting !!!
-# Update me with the new linked-in meeting id
-next_event_id: 293964071
-# Update me with the next event date
-next_date: November 9th, 2023
 ---
 
 BurbSec North is the Northern Suburb offshoot of the famous Chicagoland BurbSec

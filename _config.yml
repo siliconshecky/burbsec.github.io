@@ -16,6 +16,7 @@ title_separator: #default [" | "]
 subtitle: Chicagoland's Information Security Meetup Network
 description: Chicagoland's Information Security Meetup Network
 timezone: America/Chicago
+meetup_page: https://www.meetup.com/burbsec/
 
 # SEO
 og_image: "./assets/images/network.gif" #default[author.avatar (see below)] or [github-avatar]

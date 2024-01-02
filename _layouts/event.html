@@ -25,31 +25,25 @@ layout: minimal
              {% include components/toc.html sanitize=false html=content h_min=h_min h_max=h_max skip_no_ids=true id="toc" class="chulapa-toc-wrapper.list-group.mb-5.mx-3.mx-lg-5" item_class="list-group-item.font-weight-bold.py-1.pr-0.mr-0.chulapa-toc-reset" %}
              </nav>
               {% endif %}
-            <ul style="list-style-type: none">
-              <li>
-                <a href="https://twitter.com/{{ page.twitter_handle }}">
-                  <i class="fa-brands fa-square-x-twitter fa-xl"></i> {{ page.twitter_handle }}
-                </a>
-              </li>
-              <li>
-                <!-- UPDATE THIS LINK WITH THE NEXT LINKED IN EVENT ID -->
-                <a href="https://www.meetup.com/burbsec/events/{{ page.next_event_id }}">
-                  <i class="fa-brands fa-meetup fa-xl"></i> Next Meetup Event
-                </a>
-              </li>
-              <li>
-                <i class="fa-regular fa-calendar-plus fa-xl"></i>
-                <!-- UPDATE THIS WITH THE NEXT EVENT DATE -->
-                {{ page.next_date}}
-              </li>
-              <li>
-                <!-- UPDATE THIS IF THE LOCATION EVER CHANGES -->
-                <a href="{{ page.gmaps_link }}">
-                  <i class="fa-solid fa-map-location-dot fa-xl"></i>
-                  {{ page.location }}
-                </a>
-              </li>
-            </ul>
+              <div class="row justify-content-center align-items-center">
+                <div class="col-sm d-flex flex-column">
+                  <a href="https://twitter.com/{{ page.twitter_handle }}" class="btn btn-primary">
+                    <i class="fa-brands fa-square-x-twitter fa-xl"></i> {{ page.twitter_handle }}
+                  </a>
+                </div>
+                <div class="col-sm d-flex flex-column">
+                  <a href="{{ page.gmaps_link }}" class="btn btn-success">
+                    <i class="fa-solid fa-map-location-dot fa-xl"></i>
+                    {{ page.location }}
+                  </a>
+                </div>
+                <div class="col-sm d-flex flex-column">
+                  <a href="{{ site.meetup_page }}" class="btn btn-warning">
+                    <i class="fa-brands fa-meetup fa-xl"></i>
+                    Next Meetups
+                  </a>
+                </div>
+              </div>
             {{- content -}}
             <img src="{{ page.event_image }}" height="100px" />
 

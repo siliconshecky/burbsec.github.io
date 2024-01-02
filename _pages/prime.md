@@ -9,12 +9,6 @@ gmaps_link: https://maps.app.goo.gl/2FFye2tLH9yJvFeh9
 location: Enterrium
 event_image: /assets/images/prime-shield.png
 twitter_handle: BurbSecPrime
-
-# !!! The following must be done for every meeting !!!
-# Update me with the new linked-in meeting id
-next_event_id: 297144977
-# Update me with the next event date
-next_date: December 7th, 2023 @ 6pm
 ---
 
 Come out to Burbsec Prime! Everyone is welcome.

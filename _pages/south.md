@@ -9,12 +9,6 @@ gmaps_link: https://maps.app.goo.gl/JhsHijzXEXxV72Zy5
 location: Prime Time Restaurant (Hickory Hills, IL)
 event_image: /assets/images/south-st-sign.png
 twitter_handle: BurbSecSouth
-
-# !!! The following must be done for every meeting !!!
-# Update me with the new linked-in meeting id
-next_event_id: dkkjdtyfcqbsb
-# Update me with the next event date
-next_date: December 14th, 2023
 ---
 
 BurbSec South is the South Chicago burbs offshoot of the famous Chicagoland
