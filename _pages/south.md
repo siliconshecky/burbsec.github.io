@@ -6,7 +6,7 @@ excerpt: BurbSec - Southern Chicago
 include_on_search: true
 show_breadcrumb: true
 gmaps_link: https://maps.app.goo.gl/JhsHijzXEXxV72Zy5
-location: Prime Time Restaurant (Hickory Hills, IL)
+location: Hickory Hills, IL
 event_image: /assets/images/south-st-sign.png
 twitter_handle: BurbSecSouth
 ---

@@ -80,7 +80,7 @@ algolia:
     - desc(subtitle)
 
 navbar:
-  style: fab
+  style: dual
   expand: lg
   brand:
     title: Burbsec # Title in navbar

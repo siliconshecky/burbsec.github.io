@@ -6,7 +6,7 @@ excerpt: BurbSec - Prime
 include_on_search: true
 show_breadcrumb: true
 gmaps_link: https://maps.app.goo.gl/2FFye2tLH9yJvFeh9
-location: Enterrium
+location: Schaumburg, IL
 event_image: /assets/images/prime-shield.png
 twitter_handle: BurbSecPrime
 ---

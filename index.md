@@ -2,7 +2,7 @@
 layout: landingpage
 title: Burbsec|network
 header_type: splash
-subtitle: Chicagoland's Information Security Meetup Network
+subtitle: Information Security Meetup Network
 header_img: "./assets/images/network.gif"
 project_links:
     - label: Join the discussion on Discord
