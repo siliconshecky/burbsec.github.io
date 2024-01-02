@@ -9,12 +9,6 @@ gmaps_link: https://maps.app.goo.gl/tN73PPPeySwR5i5PA
 location: Keanes Oranmore
 event_image: /assets/images/galaway-road-sign.png
 twitter_handle: BurbSecGalway
-
-# !!! The following must be done for every meeting !!!
-# Update me with the new linked-in meeting id
-next_event_id: 297148649
-# Update me with the next event date
-next_date: November 23rd, 2023 @ 6pm
 ---
 
 Burbsec Northwest is an informal meetup of Information Security enthusiasts,
