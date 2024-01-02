@@ -6,7 +6,7 @@ excerpt: BurbSec - Northwestern Chicago
 include_on_search: true
 show_breadcrumb: true
 gmaps_link: https://maps.app.goo.gl/pcRB8LNYXXSf4GfB8
-location: Crystal Lake Brewing
+location: Crystal Lake, IL
 event_image: /assets/images/north-shield.png
 twitter_handle: BurbSecNW
 ---

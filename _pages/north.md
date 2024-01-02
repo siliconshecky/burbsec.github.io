@@ -6,7 +6,7 @@ excerpt: BurbSec - Northern Chicago
 include_on_search: true
 show_breadcrumb: true
 gmaps_link: https://maps.app.goo.gl/v3DhVqEC3QHF8RE49
-location: D'Agostino's Pizzeria at The Glen
+location: Glenview, IL
 event_image: /assets/images/north-shield.png
 twitter_handle: BurbSecNorth
 ---

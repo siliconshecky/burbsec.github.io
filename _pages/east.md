@@ -6,7 +6,7 @@ excerpt: BurbSec - Chicago
 include_on_search: true
 show_breadcrumb: true
 gmaps_link: https://maps.app.goo.gl/r8nxdKddizJqfU4u9
-location: Navigator Taproom
+location: Chicago, IL
 event_image: /assets/images/east-shield.png
 twitter_handle: BurbSecEast
 ---

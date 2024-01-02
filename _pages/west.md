@@ -6,7 +6,7 @@ excerpt: BurbSec - Western Burbs
 include_on_search: true
 show_breadcrumb: true
 gmaps_link: https://maps.app.goo.gl/P6Z1TrgyTNKS8tJS7
-location: Old Town Pour House (Freedom Commons - Naperville)
+location: Naperville, IL
 event_image: /assets/images/west-shield.png
 twitter_handle: BurbSecWest
 ---
