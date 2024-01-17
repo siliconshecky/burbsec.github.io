@@ -21,6 +21,9 @@ members:
     img: /assets/images/headshots/shecky.jpg
 
   - name: Kaylee Keep
+    link: https://twitter.com/virulentvalor
+    link_name: virulentvalor
+    fa_icon: fa-brands fa-x-twitter
     img: /assets/images/headshots/valor.jpg
 
   - name: Steve McGrath
@@ -46,6 +49,5 @@ members:
     link_name: /johnnyxmas
     fa_icon: fa-brands fa-pagelines
     img: /assets/images/headshots/johnnyxmas.jpg
-
 
 ---
