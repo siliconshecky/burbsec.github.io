@@ -1,7 +1,7 @@
 remote_theme: dieghernan/chulapa
 #theme: chulapa-jekyll
-domain: burbsec.github.io
-url: https://burbsec.github.io
+domain: burbsec.com
+url: http://burbsec.com
 
 # Find errors on this file with http://www.yamllint.com/
 
