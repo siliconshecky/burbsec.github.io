@@ -89,18 +89,18 @@ navbar:
   nav:
     - title: Chicagoland
       child:
-        - title: Prime
-          url: /prime
-        - title: East
+        - title: Chicago
           url: /east
-        - title: North
-          url: /north
-        - title: Northwest
+        - title: Crystal Lake
           url: /northwest
-        - title: South
+        - title: Glenview
+          url: /north
+        - title: Hickory Hills
           url: /south
-        - title: West
+        - title: Naperville
           url: /west
+        - title: Schaumburg
+          url: /prime
     - title: Global
       child:
         - title: Galway|Ireland
@@ -117,6 +117,8 @@ navbar:
       url: https://www.meetup.com/burbsec/
     - title: Sponsors
       url: /sponsors
+    - title: About Us
+      url: /about
 
 footer:
   links:
