@@ -17,5 +17,5 @@ networking and lubricated conversations! The crowd is very chill, about 5-10
 and growing, with experience levels ranging from college students through
 veterans! We have NO DUES, NO PRESENTATIONS, and NO PUSHY SALESPEOPLE!
 
-Crystal Lake Brewing, at the address below, has a full bar, but you will need
+Meeting at Crystal Lake Brewing, has a full bar, but you will need
 to BYO food if you need dinner.
