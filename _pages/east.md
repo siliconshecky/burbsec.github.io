@@ -17,7 +17,7 @@ lubricated conversations! The crowd is very chill, about 30-40 strong, with
 experience levels ranging from college students through CISOs! We have NO
 DUES, NO PRESENTATIONS, and NO PUSHY SALESPEOPLE!
 
-Navigator Taproom, at the address below. It has over 40 beers on tap, along
+Meeting at Navigator Taproom. It has over 40 beers on tap, along
 with many great ciders, wines, and cocktails, all using a self-serve RFID
 system! Aside from that, they also have a small you-call-it bar, and you can
 have food delivered from anywhere you like or pick it up from several great
