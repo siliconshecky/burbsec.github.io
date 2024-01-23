@@ -17,6 +17,8 @@ members:
     img: /assets/images/headshots/mikeconnor.png
 
   - name: Mike Kavka
+    link: https://twitter.com/SiliconShecky
+    link_name: Shecky
     fa_icon: fa-brands fa-x-twitter
     img: /assets/images/headshots/shecky.jpg
 
