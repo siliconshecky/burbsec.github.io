@@ -1,6 +1,7 @@
 ---
 layout: event
 title: BurbSec|NorthWest
+subtitle: Meets Every 4th Thursday of the Month
 permalink: /northwest
 excerpt: BurbSec - Northwestern Chicago
 include_on_search: true

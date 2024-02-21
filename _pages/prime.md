@@ -1,6 +1,7 @@
 ---
 layout: event
 title: BurbSec|Prime
+subtitle: Meets Every 1st Thursday of the Month
 permalink: /prime
 excerpt: BurbSec - Prime
 include_on_search: true
