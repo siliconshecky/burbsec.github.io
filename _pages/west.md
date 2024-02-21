@@ -1,6 +1,7 @@
 ---
 layout: event
 title: BurbSec|West
+subtitle: Meets Every 3rd Thursday of the Month
 permalink: /west
 excerpt: BurbSec - Western Burbs
 include_on_search: true

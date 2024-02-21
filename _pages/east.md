@@ -1,6 +1,7 @@
 ---
 layout: event
 title: BurbSec|East
+subtitle: Meets Every Last Thursday of the Month
 permalink: /east
 excerpt: BurbSec - Chicago
 include_on_search: true

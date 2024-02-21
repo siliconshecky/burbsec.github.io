@@ -1,6 +1,7 @@
 ---
 layout: event
 title: Cigarsec
+subtitle: Meets Every 1st Thursday of the Month
 permalink: /cigarsec
 excerpt: BurbSec - Cigarsec
 include_on_search: true
