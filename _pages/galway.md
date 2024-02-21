@@ -9,6 +9,9 @@ gmaps_link: https://maps.app.goo.gl/tN73PPPeySwR5i5PA
 location: Keanes Oranmore
 event_image: /assets/images/galaway-road-sign.png
 twitter_handle: BurbSecGalway
+# If you want to overload the default meetup link, update this
+# with the new location.
+#meetup_page: https://google.com
 ---
 
 Burbsec Northwest is an informal meetup of Information Security enthusiasts,
