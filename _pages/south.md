@@ -18,7 +18,3 @@ levels are welcome to join us for a few beers and complaints about work (or
 the lack thereof)! We average about 7-12 attendees each month, many of whom
 have been coming for years! Our location offers excellent beers as well as a
 full pub menu!
-
-Finally, don't forget to join the BurbSec chat servers! Our Slack and Discord
-are both synchronized with each other, so just choose whichever one you're
-most comfortable with.
