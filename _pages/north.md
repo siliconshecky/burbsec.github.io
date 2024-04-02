@@ -1,6 +1,7 @@
 ---
 layout: event
 title: BurbSec|North
+subtitle: Meets every 2nd Thursday of the Month
 permalink: /north
 excerpt: BurbSec - Northern Chicago
 include_on_search: true
