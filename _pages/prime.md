@@ -14,11 +14,11 @@ twitter_handle: BurbSecPrime
 
 Come out to Burbsec Prime! Everyone is welcome.
 
-We're just like you and you will fit right in. We geek out on infosec, memes,
-beer, and compliance jokes (among other things). Our skill set ranges from
-novice to expert and includes paper hat making. There will be someone who you
-can ask tough questions and get answers as well as be asked tough questions
-and give answers.
+We're just like you and you will fit right in. We're 20-40 folks who geek out
+on infosec, memes, beer, and compliance jokes (among other things). Our skill 
+set ranges from novice to expert and includes paper hat making. There will be
+ someone who you can ask tough questions and get answers as well as be asked
+ tough questions and give answers.
 
 Aside from finding like-minded people, you will make contacts and friendships,
 and expand your network of professional connections with genuine people. These
