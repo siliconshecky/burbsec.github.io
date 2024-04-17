@@ -7,7 +7,7 @@ include_on_search: true
 show_breadcrumb: true
 members:
   - name: Chris Carlis
-    fa_icon: fa-brands fa-x-twitter
+    fa_icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/chriscarlis/
     link_name: LinkedIn
     img: /assets/images/headshots/carlis.jpg
@@ -50,7 +50,7 @@ members:
 
   - name: Johnny Xmas
     link: https://linktr.ee/johnnyxmas
-    link_name: /johnnyxmas
+    link_name: johnnyxmas
     fa_icon: fa-brands fa-pagelines
     img: /assets/images/headshots/johnnyxmas.jpg
 
