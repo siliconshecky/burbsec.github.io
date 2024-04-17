@@ -87,6 +87,8 @@ navbar:
     img: "./assets/images/us-interstate.png"
     #img: # An small image, try 30x30px
   nav:
+    - title: Sponsors
+      url: /sponsors
     - title: Chicagoland
       child:
         - title: Chicago
@@ -115,8 +117,8 @@ navbar:
       url: https://burbsec.slack.com/join/shared_invite/zt-5oa6632c-GfwU0tKUxzLq8nMU4OHsKg#/shared-invite/email
     - title: <i class="fa-brands fa-meetup"></i> Meetups
       url: https://www.meetup.com/burbsec/
-    - title: Sponsors
-      url: /sponsors
+    - title: <i class="fa-brands fa-meetup"></i> LinkedIn
+      url: https://www.linkedin.com/groups/4081253/
     - title: About Us
       url: /about
 
