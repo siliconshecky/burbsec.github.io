@@ -3,9 +3,7 @@ title: Sponsorship
 permalink: /sponsors
 show_breadcrumb   : true
 ---
-<div align="center">
-<b>Contact us at [sponsors@burbsec.com](mailto:sponsors@burbsec.com) to get started!</b>
-</div><p>
+**Contact us at [sponsors@burbsec.com](mailto:sponsors@burbsec.com) to get started!**
 
 Join us in fostering innovation and collaboration at our dynamic meetups, where your brand can connect with a vibrant community of information security professionals and enthusiasts! As a sponsor, you'll gain unparalleled exposure to a diverse audience, showcasing your commitment to industry growth and thought leadership in an environment brimming with potential. Here's a breif rundown of all our gatherings and their stats so you can easily choose who you'd like to help:
 
@@ -26,6 +24,4 @@ Join us in fostering innovation and collaboration at our dynamic meetups, where 
 
 What exactly is being sponsored is completely up to you. Most choose to just set a tab limit with the wait staff, sometimes only covering drinks.  Some sponsors also choose to pick up a few orders of finger foods, whereas others simply pick up the full tabs of whomever was in attendance until a set time. Completely up to you and what your sponsorship budget looks like. Be sure to take into consideration the location of the event you wish to sponsor as the costs can vary greatly.
 
-<div align="center">
-<b>More details and opportunities to collaborate can be found in this website's menus!</b>
-</div><p>
+**More details and opportunities to collaborate can be found in this website's menus!**

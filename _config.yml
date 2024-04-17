@@ -117,7 +117,7 @@ navbar:
       url: https://burbsec.slack.com/join/shared_invite/zt-5oa6632c-GfwU0tKUxzLq8nMU4OHsKg#/shared-invite/email
     - title: <i class="fa-brands fa-meetup"></i> Meetups
       url: https://www.meetup.com/burbsec/
-    - title: <i class="fa-brands fa-meetup"></i> LinkedIn
+    - title: <i class="fa-brands fa-linkedin"></i> LinkedIn
       url: https://www.linkedin.com/groups/4081253/
     - title: About Us
       url: /about
