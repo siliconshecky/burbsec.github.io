@@ -6,7 +6,7 @@ permalink: /west
 excerpt: BurbSec - Western Burbs
 include_on_search: true
 show_breadcrumb: true
-gmaps_link: https://maps.app.goo.gl/P6Z1TrgyTNKS8tJS7
+gmaps_link: https://maps.app.goo.gl/tPkCCMcYZ2FS2b9S9
 location: Naperville, IL
 event_image: /assets/images/west-shield.png
 twitter_handle: BurbSecWest
