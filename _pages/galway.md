@@ -7,7 +7,7 @@ include_on_search: true
 show_breadcrumb: true
 gmaps_link: https://maps.app.goo.gl/rXi3mmBQYeboCdRUA
 location: Murty Rabbit's
-event_image: /assets/images/galaway-road-sign.jpg
+event_image: /assets/images/galway-road-sign.jpg
 twitter_handle: BurbSecGalway
 Bluesky_handle: burbsecgalway.bsky.social
 # If you want to overload the default meetup link, update this
