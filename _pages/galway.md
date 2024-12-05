@@ -9,7 +9,7 @@ gmaps_link: https://maps.app.goo.gl/rXi3mmBQYeboCdRUA
 location: Murty Rabbit's
 event_image: /assets/images/galaway-road-sign.png
 twitter_handle: BurbSecGalway
-Bluesky_handle: @burbsecgalway.bsky.social
+Bluesky_handle: burbsecgalway.bsky.social
 # If you want to overload the default meetup link, update this
 # with the new location.
 #meetup_page: https://google.com
