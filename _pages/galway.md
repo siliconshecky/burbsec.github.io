@@ -7,7 +7,7 @@ include_on_search: true
 show_breadcrumb: true
 gmaps_link: https://maps.app.goo.gl/rXi3mmBQYeboCdRUA
 location: Murty Rabbit's
-event_image: /assets/images/galaway-road-sign.png
+event_image: /assets/images/galaway-road-sign.jpg
 twitter_handle: BurbSecGalway
 Bluesky_handle: burbsecgalway.bsky.social
 # If you want to overload the default meetup link, update this
@@ -25,4 +25,3 @@ knowledge! Afterwards we may have a discussion on what was put together.
 
 We've moved into Galway City proper! Based on everyone's ability to attend
 we're now at Murty Rabbit's on the last Sunday of the month. See ya there!
-![New-galaway-road-sign](https://github.com/user-attachments/assets/a2210c1f-f11b-4b9e-937e-956ddddf258d)
