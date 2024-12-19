@@ -7,9 +7,10 @@ excerpt: BurbSec - Las Vegas
 include_on_search: true
 show_breadcrumb: true
 gmaps_link: TBA
-location: Las Vegas, NV
-event_image: /assets/images/bursec_default_sign.png
-twitter_handle: TBA
+location: TBA, Las Vegas, NV
+event_image: /assets/images/vegas-shield.png
+twitter_handle: BurbsecVegas
+meetup_page: https://www.meetup.com/burbsecvegas/
 ---
 
 Burbsec Las Vegas is an informal meetup of Information Security enthusiasts,
