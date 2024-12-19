@@ -103,10 +103,12 @@ navbar:
           url: /west
         - title: Schaumburg
           url: /prime
-    - title: Global
+    - title: Elsewhere
       child:
         - title: Galway|Ireland
           url: /galway
+        - title: Burbsec|Vegas
+          url: /lasvegas
     - title: Special Interest
       child:
         - title: CigarSec

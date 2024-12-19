@@ -16,3 +16,5 @@ project.Rproj
 .DS_Store
 .DS_Store
 .DS_Store
+.DS_Store
+Gemfile.lock
