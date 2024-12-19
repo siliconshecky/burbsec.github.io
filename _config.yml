@@ -13,8 +13,8 @@ url: http://burbsec.com
 locale: #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
 title: Burbsec #default["repository_name"]
 title_separator: #default [" | "]
-subtitle: Chicagoland's Information Security Meetup Network
-description: Chicagoland's Information Security Meetup Network
+subtitle: Information Security Events
+description: The Wortld's Most Fun Information Security Meetup Network
 timezone: America/Chicago
 meetup_page: https://www.meetup.com/burbsec/
 
@@ -105,9 +105,9 @@ navbar:
           url: /prime
     - title: Elsewhere
       child:
-        - title: Galway|Ireland
+        - title: Galway, Ireland
           url: /galway
-        - title: Burbsec|Vegas
+        - title: Las Vegas, NV
           url: /lasvegas
     - title: Special Interest
       child:
