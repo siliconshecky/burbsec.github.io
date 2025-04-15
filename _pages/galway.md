@@ -10,7 +10,7 @@ location: Murty Rabbit's
 event_image: /assets/images/galway-road-sign.jpg
 twitter_handle: BurbSecGalway
 Bluesky_handle: burbsecgalway.bsky.social
-#meetup_page: paste URL here
+meetup_page: https://www.meetup.com/burbsec-galway
 ---
 
 Burbsec Galway is an informal meetup of Information Security enthusiasts,
