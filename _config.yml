@@ -87,7 +87,7 @@ navbar:
     img: "./assets/images/us-interstate.png"
     #img: # An small image, try 30x30px
   nav:
-    - title: Sponsors
+    - title: Sponsor
       url: /sponsors
     - title: Chicagoland
       child:
@@ -115,8 +115,6 @@ navbar:
           url: /cigarsec
     - title: <i class="fa-brands fa-discord"></i> Discord
       url: https://tinyurl.com/burbchat
-    - title: <i class="fa-brands fa-slack"></i> Slack
-      url: https://burbsec.slack.com/join/shared_invite/zt-5oa6632c-GfwU0tKUxzLq8nMU4OHsKg#/shared-invite/email
     - title: <i class="fa-brands fa-meetup"></i> Meetups
       url: https://www.meetup.com/burbsec/
     - title: <i class="fa-brands fa-linkedin"></i> LinkedIn
@@ -147,10 +145,13 @@ chulapa-skin:
   #vars:
   #primary: ["#152133"]
 
+chulapa:
+  custom_head: custom/custom_head
+
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
 
 # Blog pagination: on this site /blog/index.html. https://jekyllrb.com/docs/pagination/
-paginate: 4
+paginate: 3
 paginate_path: "/blog/page:num/"
 paginator_maxnum: 3 #default[3] Custom: max of number to be displayed on the paginator
 
@@ -159,7 +160,7 @@ collections:
   cheatsheet:
     output: true
     permalink: /cheatsheets/:name
-collections_dir:
+collections_dir: _collections
 permalink: /:year:month:day_:title/
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
@@ -250,4 +251,5 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 
