@@ -13,37 +13,37 @@ members:
     img: /assets/images/headshots/carlis.jpg
 
   - name: Mike Connor
-    link: https://twitter.com/themikeconnor
+    link: https://x.com/themikeconnor
     link_name: themikeconnor
     fa_icon: fa-brands fa-x-twitter
     img: /assets/images/headshots/mikeconnor.png
 
   - name: Mike Kavka
-    link: https://twitter.com/SiliconShecky
+    link: https://x.com/SiliconShecky
     link_name: Shecky
     fa_icon: fa-brands fa-x-twitter
     img: /assets/images/headshots/shecky.jpg
 
   - name: Kaylee Keep
-    link: https://twitter.com/virulentvalor
+    link: https://x.com/virulentvalor
     link_name: virulentvalor
     fa_icon: fa-brands fa-x-twitter
     img: /assets/images/headshots/valor.jpg
 
   - name: Steve McGrath
-    link: https://twitter.com/stevemcgrath
+    link: https://x.com/stevemcgrath
     link_name: SteveMcGrath
     fa_icon: fa-brands fa-x-twitter
     img: /assets/images/headshots/steve.jpg
 
   - name: Dave Schwartzberg
-    link: https://twitter.com/DSchwartzberg
+    link: https://x.com/DSchwartzberg
     link_name: DSchwartzberg
     fa_icon: fa-brands fa-x-twitter
     img: /assets/images/headshots/heal.jpg
 
   - name: Rob Wagner
-    link: https://twitter.com/Mr_Minion
+    link: https://x.com/Mr_Minion
     link_name: Mr_Minion
     fa_icon: fa-brands fa-x-twitter
     img: /assets/images/headshots/wagner.jpg
