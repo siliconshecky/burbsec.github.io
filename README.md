@@ -1,10 +1,10 @@
 # BurbSec
 
-A Svelte-based website for BurbSec security events and meetups.
+A SvelteKit website for BurbSec information security meetups and events.
 
 ## About
 
-BurbSec hosts security meetups and events across different locations. This site provides information about upcoming events, locations, and sponsors.
+BurbSec is an information security meetup network hosting events across multiple locations including Chicago, Las Vegas, Galway, and more. This site provides information about upcoming events, locations, and sponsors.
 
 ## Project Structure
 
@@ -62,8 +62,51 @@ npm run preview
 
 - **Framework**: SvelteKit
 - **Build Tool**: Vite
-- **Styling**: Custom CSS
-- **Deployment**: Static site generation
+- **Styling**: Bootstrap 5 + Custom CSS
+- **Icons**: Font Awesome 6
+- **Deployment**: Static site generation (GitHub Pages)
+
+## File Structure
+
+```
+src/
+├── app.html              # Main HTML template
+├── app.css               # Global styles
+├── lib/
+│   └── components/       # Reusable Svelte components
+│       ├── EventPage.svelte
+│       ├── Footer.svelte
+│       └── Navbar.svelte
+└── routes/               # Page routes
+    ├── +layout.svelte    # Layout wrapper
+    ├── +page.svelte      # Homepage
+    ├── east/             # Chicago event page
+    ├── lasvegas/         # Las Vegas event page
+    ├── galway/           # Galway event page
+    ├── north/            # Glenview event page
+    ├── south/            # Hickory Hills event page
+    ├── west/             # Naperville event page
+    ├── northwest/        # Crystal Lake event page
+    ├── prime/            # Schaumburg event page
+    ├── cigarsec/         # CigarSec special interest
+    └── sponsors/         # Sponsors page
+
+static/
+├── images/               # Event shields and photos
+├── videos/               # Background video
+├── sitemap.xml          # Site map for search engines
+└── robots.txt           # Crawler directives
+```
+
+## Adding New Events
+
+To add a new event location:
+
+1. Create a new directory in `src/routes/` (e.g., `src/routes/newlocation/`)
+2. Add a `+page.svelte` file using the `EventPage` component
+3. Add event shield image to `static/images/`
+4. Update the homepage (`src/routes/+page.svelte`) to include the new location
+5. Update `static/sitemap.xml` with the new URL
 
 ## Contributing
 
