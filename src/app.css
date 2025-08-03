@@ -1,0 +1,67 @@
+/* Center main landing page title and subtitle */
+.landingpage-title,
+.landingpage-header,
+.page-title,
+.page-header,
+.landingpage-subtitle,
+.page-subtitle {
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* Reduce navbar/menu padding on desktop */
+@media (min-width: 768px) {
+  .navbar-nav .nav-link,
+  .navbar-nav .dropdown-item {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+/* Hero section styles */
+.hero-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  color: white;
+  position: relative;
+  z-index: 1;
+}
+
+/* Legacy fallback for splash image */
+.splash-chulapa-image {
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.8)), url('/images/network.gif');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Card hover effects */
+.event-card,
+.card-hover {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.event-card:hover,
+.card-hover:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+/* Force card text to remain dark in hyperlinks */
+a.text-decoration-none .card-hover,
+a.text-decoration-none .card-hover:hover,
+a.text-decoration-none .card-hover:visited,
+a.text-decoration-none .card-hover:focus,
+a.text-decoration-none .card-hover:active,
+a.text-decoration-none .card-hover .card-title,
+a.text-decoration-none .card-hover .card-text,
+a.text-decoration-none .card-hover .card-title:hover,
+a.text-decoration-none .card-hover .card-text:hover {
+  color: #212529;
+}
+
+/* SvelteKit body container */
+.sveltekit-body {
+  display: contents;
+}
