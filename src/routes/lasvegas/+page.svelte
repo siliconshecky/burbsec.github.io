@@ -2,6 +2,77 @@
 	import EventPage from '$lib/components/EventPage.svelte';
 </script>
 
+<svelte:head>
+	<title>BurbSec Las Vegas | Information Security Meetup in Sin City</title>
+	<meta name="description" content="Join BurbSec Las Vegas - information security meetup in Sin City! Connect with cybersecurity professionals, ethical hackers, and infosec enthusiasts in the entertainment capital. Monthly networking events." />
+	
+	<!-- Location-specific keywords -->
+	<meta name="keywords" content="las vegas information security, las vegas cybersecurity meetup, las vegas infosec, las vegas hacking meetup, las vegas security professionals, sin city cybersecurity, nevada infosec, vegas tech meetup, cybersecurity networking las vegas, ethical hacking las vegas, IT security las vegas, nevada security meetup" />
+	
+	<!-- Open Graph Tags -->
+	<meta property="og:title" content="BurbSec Las Vegas | Information Security Meetup in Sin City" />
+	<meta property="og:description" content="Join BurbSec Las Vegas - information security meetup in Sin City! Connect with cybersecurity professionals, ethical hackers, and infosec enthusiasts in the entertainment capital." />
+	<meta property="og:url" content="https://burbsec.github.io/lasvegas" />
+	<meta property="og:image" content="https://burbsec.github.io/images/vegas_shield.png" />
+	
+	<!-- Twitter Card Tags -->
+	<meta name="twitter:title" content="BurbSec Las Vegas | Information Security Meetup in Sin City" />
+	<meta name="twitter:description" content="Join BurbSec Las Vegas - information security meetup in Sin City! Connect with cybersecurity professionals and infosec enthusiasts." />
+	<meta name="twitter:image" content="https://burbsec.github.io/images/vegas_shield.png" />
+	
+	<!-- Location-specific structured data -->
+	{@html `<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "Event",
+		"name": "BurbSec Las Vegas Information Security Meetup",
+		"description": "BurbSec Las Vegas brings the fun and networking of our signature meetup format to Sin City. Join fellow information security professionals for an evening of great conversation, networking, and community building.",
+		"eventSchedule": {
+			"@type": "Schedule",
+			"repeatFrequency": "P1M"
+		},
+		"eventStatus": "https://schema.org/EventScheduled",
+		"eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+		"location": {
+			"@type": "Place",
+			"name": "Las Vegas",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "Las Vegas",
+				"addressRegion": "NV",
+				"addressCountry": "US"
+			},
+			"geo": {
+				"@type": "GeoCoordinates",
+				"latitude": "36.1699",
+				"longitude": "-115.1398"
+			}
+		},
+		"organizer": {
+			"@type": "Organization",
+			"name": "BurbSec Network",
+			"url": "https://burbsec.github.io/"
+		},
+		"offers": {
+			"@type": "Offer",
+			"price": "0",
+			"priceCurrency": "USD",
+			"availability": "https://schema.org/InStock"
+		},
+		"audience": {
+			"@type": "Audience",
+			"audienceType": "Information Security Professionals, Cybersecurity Enthusiasts, Ethical Hackers, IT Professionals"
+		},
+		"keywords": "information security, cybersecurity, hacking, infosec, meetup, las vegas, sin city, networking, security professionals, ethical hacking, IT security, nevada",
+		"image": "https://burbsec.github.io/images/vegas_shield.png",
+		"url": "https://www.meetup.com/burbsecvegas/"
+	}
+	</script>`}
+	
+	<!-- Canonical URL -->
+	<link rel="canonical" href="https://burbsec.github.io/lasvegas" />
+</svelte:head>
+
 <EventPage
 	title="BurbSec|Las Vegas"
 	subtitle="Monthly Meetup"

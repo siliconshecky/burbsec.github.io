@@ -3,7 +3,76 @@
 
 <svelte:head>
 	<title>Burbsec | The World's Most Fun InfoSec Meetup Events!</title>
-	<meta name="description" content="The World's Most Fun Information Security Meetup Network" />
+	<meta name="description" content="Join Burbsec, the premier information security meetup network! Weekly cybersecurity events in Chicago, Las Vegas, Galway & more. Connect with ethical hackers, security professionals, and infosec enthusiasts. Free networking events with hands-on training, CTFs, and industry talks." />
+	
+	<!-- Page-specific Open Graph Tags -->
+	<meta property="og:title" content="Burbsec | The World's Most Fun InfoSec Meetup Events!" />
+	<meta property="og:description" content="Join Burbsec, the premier information security meetup network! Weekly cybersecurity events in Chicago, Las Vegas, Galway & more. Connect with ethical hackers, security professionals, and infosec enthusiasts." />
+	<meta property="og:url" content="https://burbsec.github.io/" />
+	
+	<!-- Page-specific Twitter Card Tags -->
+	<meta name="twitter:title" content="Burbsec | The World's Most Fun InfoSec Meetup Events!" />
+	<meta name="twitter:description" content="Join Burbsec, the premier information security meetup network! Weekly cybersecurity events in Chicago, Las Vegas, Galway & more." />
+	
+	<!-- Additional page-specific structured data -->
+	{@html `<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "WebPage",
+		"name": "Burbsec - Information Security Meetup Network",
+		"description": "The world's most fun information security meetup network with events across Chicago, Las Vegas, Galway and more locations.",
+		"url": "https://burbsec.github.io/",
+		"mainEntity": {
+			"@type": "Organization",
+			"name": "Burbsec Network",
+			"description": "Information security meetup network connecting cybersecurity professionals worldwide",
+			"hasOfferCatalog": {
+				"@type": "OfferCatalog",
+				"name": "Cybersecurity Events",
+				"itemListElement": [
+					{
+						"@type": "Offer",
+						"itemOffered": {
+							"@type": "Event",
+							"name": "Chicago InfoSec Meetup",
+							"description": "Monthly information security meetup in Chicago",
+							"category": "Technology"
+						}
+					},
+					{
+						"@type": "Offer",
+						"itemOffered": {
+							"@type": "Event",
+							"name": "Las Vegas InfoSec Meetup",
+							"description": "Monthly information security meetup in Las Vegas",
+							"category": "Technology"
+						}
+					},
+					{
+						"@type": "Offer",
+						"itemOffered": {
+							"@type": "Event",
+							"name": "Galway InfoSec Meetup",
+							"description": "Monthly information security meetup in Galway, Ireland",
+							"category": "Technology"
+						}
+					}
+				]
+			}
+		},
+		"breadcrumb": {
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "https://burbsec.github.io/"
+				}
+			]
+		}
+	}
+	</script>`}
 </svelte:head>
 
 <div class="home-page">
