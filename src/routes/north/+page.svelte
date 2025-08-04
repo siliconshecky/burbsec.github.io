@@ -4,7 +4,7 @@
 
 <EventPage
 	title="BurbSec|North"
-	subtitle="Monthly Meetup"
+	subtitle="Meets Every Second Thursday of the Month"
 	location="Glenview, IL"
 	eventImage="/images/north_shield.png"
 	blueskyHandle="north.burbsec.com"

@@ -4,7 +4,7 @@
 
 <EventPage
 	title="BurbSec|West"
-	subtitle="Monthly Meetup"
+	subtitle="Meets Every Third Thursday of the Month"
 	location="Naperville, IL"
 	eventImage="/images/west_shield.png"
 	blueskyHandle="west.burbsec.com"

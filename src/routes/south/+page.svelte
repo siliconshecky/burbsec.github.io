@@ -4,7 +4,7 @@
 
 <EventPage
 	title="BurbSec|South"
-	subtitle="Monthly Meetup"
+	subtitle="Meets Every Second Thursday of the Month"
 	location="Hickory Hills, IL"
 	eventImage="/images/south_shield.png"
 	blueskyHandle="south.burbsec.com"

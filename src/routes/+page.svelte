@@ -88,10 +88,10 @@
 					<h1 class="display-3 fw-bold mb-4 landingpage-title text-white">Burbsec|Network</h1>
 					<p class="lead mb-5 landingpage-subtitle text-white">The World's Most Fun InfoSec Meetup Events!</p>
 					<div class="d-flex flex-column flex-md-row gap-3 justify-content-center">
-						<a href="https://tinyurl.com/burbchat" class="btn btn-primary btn-lg" target="_blank">
+						<a href="https://tinyurl.com/burbchat" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
 							<i class="fa-brands fa-discord"></i> Join the discussion on Discord!
 						</a>
-						<a href="https://www.meetup.com/burbsec/" class="btn btn-warning btn-lg" target="_blank">
+						<a href="https://www.meetup.com/burbsec/" class="btn btn-warning btn-lg" target="_blank" rel="noopener">
 							<i class="fa-brands fa-meetup"></i> Find your weekly local event!
 						</a>
 					</div>
@@ -139,7 +139,7 @@
 							 srcset="/images/north_shield.png 1x"
 							 alt="Glenview" class="mb-3" width="80" height="80" loading="lazy">
 						<h5 class="card-title">Glenview</h5>
-						<p class="card-text">Monthly Meetup</p>
+						<p class="card-text">Every Second Thursday</p>
 						<a href="/north" class="btn btn-outline-primary">Learn More</a>
 					</div>
 				</div>
@@ -152,7 +152,7 @@
 							 srcset="/images/west_shield.png 1x"
 							 alt="Naperville" class="mb-3" width="80" height="80" loading="lazy">
 						<h5 class="card-title">Naperville</h5>
-						<p class="card-text">Monthly Meetup</p>
+						<p class="card-text">Every Third Thursday</p>
 						<a href="/west" class="btn btn-outline-primary">Learn More</a>
 					</div>
 				</div>
@@ -165,7 +165,7 @@
 							 srcset="/images/prime_shield.png 1x"
 							 alt="Schaumburg" class="mb-3" width="80" height="80" loading="lazy">
 						<h5 class="card-title">Schaumburg</h5>
-						<p class="card-text">Monthly Meetup</p>
+						<p class="card-text">Every First Thursday</p>
 						<a href="/prime" class="btn btn-outline-primary">Learn More</a>
 					</div>
 				</div>
@@ -178,7 +178,7 @@
 							 srcset="/images/northwest_shield.png 1x"
 							 alt="Crystal Lake" class="mb-3" width="80" height="80" loading="lazy">
 						<h5 class="card-title">Crystal Lake</h5>
-						<p class="card-text">Monthly Meetup</p>
+						<p class="card-text">Every Fourth Thursday</p>
 						<a href="/northwest" class="btn btn-outline-primary">Learn More</a>
 					</div>
 				</div>
@@ -191,7 +191,7 @@
 							 srcset="/images/south_shield.png 1x"
 							 alt="Hickory Hills" class="mb-3" width="80" height="80" loading="lazy">
 						<h5 class="card-title">Hickory Hills</h5>
-						<p class="card-text">Monthly Meetup</p>
+						<p class="card-text">Every Second Thursday</p>
 						<a href="/south" class="btn btn-outline-primary">Learn More</a>
 					</div>
 				</div>

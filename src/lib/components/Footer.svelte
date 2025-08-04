@@ -7,7 +7,7 @@
 			</div>
 			<div class="col-md-6">
 				<div class="d-flex justify-content-md-end justify-content-start">
-					<a href="https://github.com/BurbSec/burbsec.github.io" class="text-light" target="_blank">
+					<a href="https://github.com/BurbSec/burbsec.github.io" class="text-light" target="_blank" rel="noopener">
 						<i class="fab fa-github"></i> Repo on Github
 					</a>
 				</div>

@@ -57,17 +57,17 @@
 					</ul>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="https://tinyurl.com/burbchat" target="_blank">
+					<a class="nav-link" href="https://tinyurl.com/burbchat" target="_blank" rel="noopener">
 						<i class="fa-brands fa-discord"></i> Discord
 					</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="https://www.meetup.com/burbsec/" target="_blank">
+					<a class="nav-link" href="https://www.meetup.com/burbsec/" target="_blank" rel="noopener">
 						<i class="fa-brands fa-meetup"></i> Next Meetups
 					</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="https://www.linkedin.com/groups/4081253/" target="_blank">
+					<a class="nav-link" href="https://www.linkedin.com/groups/4081253/" target="_blank" rel="noopener">
 						<i class="fa-brands fa-linkedin"></i> LinkedIn
 					</a>
 				</li>

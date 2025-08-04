@@ -4,7 +4,7 @@
 
 <EventPage
 	title="BurbSec|Prime"
-	subtitle="Monthly Meetup"
+	subtitle="Meets Every First Thursday of the Month"
 	location="Schaumburg, IL"
 	eventImage="/images/prime_shield.png"
 	blueskyHandle="prime.burbsec.com"

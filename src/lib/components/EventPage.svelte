@@ -24,19 +24,19 @@
 			
 			<div class="row justify-content-center align-items-center mb-4">
 				<div class="col-sm d-flex flex-column mb-2">
-					<a href="https://bsky.app/profile/{blueskyHandle}" class="btn btn-primary" target="_blank">
+					<a href="https://bsky.app/profile/{blueskyHandle}" class="btn btn-primary" target="_blank" rel="noopener">
 						<img src="/images/bluesky.svg" alt="Bluesky" width="24" height="24" class="me-2 bluesky-icon">
 						Follow us on BlueSky!
 					</a>
 				</div>
 				<div class="col-sm d-flex flex-column mb-2">
-					<a href={gmapsLink} class="btn btn-success" target="_blank">
+					<a href={gmapsLink} class="btn btn-success" target="_blank" rel="noopener">
 						<i class="fa-solid fa-map-location-dot fa-xl"></i>
 						{location}
 					</a>
 				</div>
 				<div class="col-sm d-flex flex-column mb-2">
-					<a href={meetupPage} class="btn btn-warning" target="_blank">
+					<a href={meetupPage} class="btn btn-warning" target="_blank" rel="noopener">
 						<i class="fa-brands fa-meetup fa-xl"></i>
 						Next Meetups
 					</a>
