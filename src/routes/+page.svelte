@@ -1,4 +1,5 @@
 <script>
+	// Trigger rebuild to fix production deployment
 </script>
 
 <svelte:head>
