@@ -120,6 +120,23 @@
 						</div>
 						
 						<div class="col-lg-6">
+							<a href="/southeast" class="text-decoration-none">
+								<div class="card h-100 card-hover">
+									<div class="card-body">
+										<h5 class="card-title">BurbSec Southeast</h5>
+										<p class="card-text">
+											<strong>When:</strong> Every FIRST Monday<br>
+											<strong>Attendance:</strong> 10+ active and prospective IT and Infosec professionals and enthusiasts<br>
+											<strong>Crowd:</strong> Younger, early career<br>
+											<strong>Location:</strong> NW Indiana<br>
+											<strong>Average Sponsorship:</strong> $250
+										</p>
+									</div>
+								</div>
+							</a>
+						</div>
+						
+						<div class="col-lg-6">
 							<a href="/west" class="text-decoration-none">
 								<div class="card h-100 card-hover">
 									<div class="card-body">

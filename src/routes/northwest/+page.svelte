@@ -6,7 +6,7 @@
 	title="BurbSec|Northwest"
 	subtitle="Meets Every Fourth Thursday of the Month"
 	location="Crystal Lake, IL"
-	eventImage="/images/northwest_shield.png"
+	eventImage="/images/northwest_shield.jpg"
 	blueskyHandle="northwest.burbsec.com"
 	gmapsLink="https://maps.app.goo.gl/3sPARGKDgtfDEUct7"
 	irlImage="/images/irl/northwest.jpg"

@@ -44,6 +44,15 @@
 						"@type": "Offer",
 						"itemOffered": {
 							"@type": "Event",
+							"name": "Southeast InfoSec Meetup",
+							"description": "Monthly information security meetup in Southeast Chicagoland",
+							"category": "Technology"
+						}
+					},
+					{
+						"@type": "Offer",
+						"itemOffered": {
+							"@type": "Event",
 							"name": "Las Vegas InfoSec Meetup",
 							"description": "Monthly information security meetup in Las Vegas",
 							"category": "Technology"
@@ -175,8 +184,8 @@
 			<div class="col-md-6 col-lg-4">
 				<div class="card event-card h-100">
 					<div class="card-body text-center">
-						<img src="/images/northwest_shield.png"
-							 srcset="/images/northwest_shield.png 1x"
+						<img src="/images/northwest_shield.jpg"
+							 srcset="/images/northwest_shield.jpg 1x"
 							 alt="Crystal Lake" class="mb-3" width="80" height="80" loading="lazy">
 						<h5 class="card-title">Crystal Lake</h5>
 						<p class="card-text">Every Fourth Thursday</p>
@@ -194,6 +203,19 @@
 						<h5 class="card-title">Hickory Hills</h5>
 						<p class="card-text">Every Second Thursday</p>
 						<a href="/south" class="btn btn-outline-primary">Learn More</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-md-6 col-lg-4">
+				<div class="card event-card h-100">
+					<div class="card-body text-center">
+						<img src="/images/southeast_shield.jpg"
+							 srcset="/images/southeast_shield.jpg 1x"
+							 alt="Southeast" class="mb-3" width="80" height="80" loading="lazy">
+						<h5 class="card-title">Southeast</h5>
+						<p class="card-text">Every First Monday</p>
+						<a href="/southeast" class="btn btn-outline-primary">Learn More</a>
 					</div>
 				</div>
 			</div>
