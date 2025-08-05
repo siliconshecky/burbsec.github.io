@@ -37,7 +37,7 @@
 						<li><a class="dropdown-item" href="/south">Hickory Hills</a></li>
 						<li><a class="dropdown-item" href="/west">Naperville</a></li>
 						<li><a class="dropdown-item" href="/prime">Schaumburg</a></li>
-						<li><a class="dropdown-item" href="/southeast">Southeast</a></li>
+						<li><a class="dropdown-item" href="/southeast">South Bend, IN</a></li>
 					</ul>
 				</li>
 				<li class="nav-item dropdown">

@@ -35,7 +35,7 @@
 						"@type": "Offer",
 						"itemOffered": {
 							"@type": "Event",
-							"name": "Chicago InfoSec Meetup",
+							"name": "BurbSec East",
 							"description": "Monthly information security meetup in Chicago",
 							"category": "Technology"
 						}
@@ -44,7 +44,7 @@
 						"@type": "Offer",
 						"itemOffered": {
 							"@type": "Event",
-							"name": "Southeast InfoSec Meetup",
+							"name": "BurbSec Southeast",
 							"description": "Monthly information security meetup in Southeast Chicagoland",
 							"category": "Technology"
 						}
@@ -53,7 +53,7 @@
 						"@type": "Offer",
 						"itemOffered": {
 							"@type": "Event",
-							"name": "Las Vegas InfoSec Meetup",
+							"name": "BurbSec Las Vegas",
 							"description": "Monthly information security meetup in Las Vegas",
 							"category": "Technology"
 						}
@@ -62,7 +62,7 @@
 						"@type": "Offer",
 						"itemOffered": {
 							"@type": "Event",
-							"name": "Galway InfoSec Meetup",
+							"name": "BurbSec Galway",
 							"description": "Monthly information security meetup in Galway, Ireland",
 							"category": "Technology"
 						}
@@ -213,7 +213,7 @@
 						<img src="/images/southeast_shield.jpg"
 							 srcset="/images/southeast_shield.jpg 1x"
 							 alt="Southeast" class="mb-3" width="80" height="80" loading="lazy">
-						<h5 class="card-title">Southeast</h5>
+						<h5 class="card-title">South bend, IN</h5>
 						<p class="card-text">Every First Monday</p>
 						<a href="/southeast" class="btn btn-outline-primary">Learn More</a>
 					</div>
